@@ -1,6 +1,6 @@
 # An observation on Generatlization
 
-These are few of the concepts mentioned in the (video)[https://www.youtube.com/watch?v=AKMuA_TVz3A] (/talk) by Ilya Sutskever. 
+These are few of the concepts mentioned in the [video](https://www.youtube.com/watch?v=AKMuA_TVz3A) (/talk) by Ilya Sutskever. 
 
 ## Unsupervised Learning via Distribution Matching
 
