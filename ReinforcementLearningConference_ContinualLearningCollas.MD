@@ -1,4 +1,4 @@
-#RL Workshops
+# RL Workshops
 1. [Finding the Frame] (https://sites.google.com/view/findingtheframe/home)
 2. [RL Beyond Rewards] (https://rlbrew2-workshop.github.io/)
 3. [Causal RL] (https://sites.google.com/uci.edu/crlw2025/)
