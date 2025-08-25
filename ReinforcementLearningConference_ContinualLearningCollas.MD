@@ -7,3 +7,7 @@
 6. [Inductive Biases in RL](https://sites.google.com/view/ibrl-workshop/home)
 7. [RL and Video Games](https://sites.google.com/view/rlvg-workshop-2025/home)
 8. [Programmatic RL](https://prl-workshop.github.io/)
+
+## Continual Learning Collas
+
+* [Link](https://lifelong-ml.cc/Conferences/2025/program/mainday1)
