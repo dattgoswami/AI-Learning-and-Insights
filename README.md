@@ -1,5 +1,6 @@
 ## Contents
 * [Continual Intelligence](https://www.continualintelligence.xyz/)
+* [Depth Separation in Neural Networks: Expressivity vs. Discoverability](https://github.com/dattgoswami/depth-separation-discoverability/blob/main/depth-separation-in-nn.pdf)
 * [Rethinking Post-Training: Why RL Forgets Less, and What That Means for the Next Generation of AI](https://medium.com/@dattgoswami/rethinking-post-training-why-rl-forgets-less-and-what-that-means-for-the-next-generation-of-ai-f4a76bce722c)
 * [Coding landscape - of open weight llms](https://medium.com/@dattgoswami/coding-landscape-02b93fb40d03)
 * [Enterprise AI Guide 2026-2028: What Enterprises Should Do in the Next Two Years](https://datt.substack.com/p/enterprise-ai-guide-2026-2028-what)
