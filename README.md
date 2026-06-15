@@ -1,6 +1,7 @@
 ## Contents
 * [Continual Intelligence](https://www.continualintelligence.xyz/)
 * [Harness Engineering](https://www.agenticfrontier.dev/)
+* [A Causal Factorization Norm for Pure Differential Privacy: Continual Counting, Asymptotic Constants, and Exact Values at Small Horizons](https://github.com/dattgoswami/causal-factorization-norm/blob/main/paper/main.pdf)
 * [Depth Separation in Neural Networks: Expressivity vs. Discoverability](https://github.com/dattgoswami/depth-separation-discoverability/blob/main/depth-separation-in-nn.pdf)
 * [Rethinking Post-Training: Why RL Forgets Less, and What That Means for the Next Generation of AI](https://medium.com/@dattgoswami/rethinking-post-training-why-rl-forgets-less-and-what-that-means-for-the-next-generation-of-ai-f4a76bce722c)
 * [Coding landscape - of open weight llms](https://medium.com/@dattgoswami/coding-landscape-02b93fb40d03)
