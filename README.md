@@ -1,4 +1,5 @@
 ## Contents
+* [Closing the Loop](https://www.agenticfrontier.dev/articles/closing-the-loop)
 * [Continual Intelligence](https://www.continualintelligence.xyz/)
 * [Harness Engineering](https://www.agenticfrontier.dev/)
 * [A Causal Factorization Norm for Pure Differential Privacy: Continual Counting, Asymptotic Constants, and Exact Values at Small Horizons](https://github.com/dattgoswami/causal-factorization-norm/blob/main/paper/main.pdf)
