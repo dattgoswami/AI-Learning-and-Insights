@@ -24,6 +24,7 @@
 * [Context Engineering: The Real Work Behind Production AI Systems](https://open.substack.com/pub/datt/p/context-engineering-the-real-work?r=nh5j&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 * [Beyond Thinking Longer: How to Teach Language Models to Actually Explore](https://medium.com/@dattgoswami/beyond-thinking-longer-how-to-teach-language-models-to-actually-explore-3ae3297ee71f)
 * [Book Summaries](https://github.com/dattgoswami/BookSummaries) Backend Engineering Context for Agentic Coding(/Coding Agents)
+* [2023 Llama 2 - 7b calling weather api(/tools) to make recommendations](https://github.com/dattgoswami/smartoutfit-weather-clothing-recommendation) 
 * [2017](https://qr.ae/pF4xoM)
 1. **Mastering Prompt Engineering: An Exploratory Guide to Navigating the World of Large Language Models** (Draft - Work in progress) - July 2023
    - A comprehensive guide to understanding and effectively utilizing large language models. Dive into the art and science of prompt engineering to make the most out of these powerful tools.
